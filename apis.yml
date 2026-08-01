@@ -1,8 +1,25 @@
 aid: stilla-technologies
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/stilla-technologies.png
 name: Stilla Technologies
-description: 'Stilla Technologies is a company surfaced as a portfolio company of partech and added to
-  the API Evangelist network as a stub for enrichment. Sector: Healthcare. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Stilla Technologies is a life-sciences instrumentation company that develops digital PCR
+  (dPCR) systems, consumables, and assays, best known for its Naica system for Crystal Digital PCR and
+  the Nio product line. With operations in France and the United States, its technology serves oncology
+  diagnostics, cell and gene therapy, and infectious-disease testing. Stilla was acquired by Bio-Rad
+  Laboratories (announced February 2025, ~$225M plus up to $50M in milestones, closed 2025); its web
+  properties now redirect to Bio-Rad. The company operates laboratory hardware and consumables rather
+  than a public developer platform — no OpenAPI, developer portal, SDKs, CLI, or MCP surface was found
+  during enrichment.'
 url: https://raw.githubusercontent.com/api-evangelist/stilla-technologies/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+x-acquired-by: bio-rad
+x-acquired-note: Acquired by Bio-Rad Laboratories; announced Feb 2025, ~$225M + up to $50M milestones,
+  closed 2025. Web properties redirect to bio-rad.com.
 tags:
 - Company
 - Healthcare
+- Life Sciences
+- Diagnostics
+- Digital PCR
+- Genomics
+- Biotechnology
+- Laboratory Instruments
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +49,12 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/stilla-technologies-domain-security.yml
 - type: Website
   url: https://www.stillatechnologies.com/
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
