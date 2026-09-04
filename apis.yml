@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.stillatechnologies.com/', status: 301, note: 'declared website redirects to https://www.bio-rad.com/en-us/category/digital-pcr?ID=bcdf1371-fa15-9804-647b-4c13f34cd622 — a different registrable domain (stillatechnologies.com -> bio-rad.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/stilla-technologies.png
 name: Stilla Technologies
 description: 'Stilla Technologies is a life-sciences instrumentation company that develops digital PCR
