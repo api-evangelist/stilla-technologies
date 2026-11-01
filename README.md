@@ -64,6 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Stilla Technologies is a company surfaced as a portfolio company of partech and added to the API Evangelist network as a stub for enrichment. Sector: Healthcare. This profile is a lead awaiting the enrichment pipeline.
+Stilla Technologies is a life-sciences instrumentation company that develops digital PCR (dPCR) systems, consumables, and assays, best known for its Naica system for Crystal Digital PCR and the Nio product line. With operations in France and the United States, its technology serves oncology diagnostics, cell and gene therapy, and infectious-disease testing. Stilla was acquired by Bio-Rad Laboratories (announced February 2025, ~$225M plus up to $50M in milestones, closed 2025); its web properties now redirect to Bio-Rad. The company operates laboratory hardware and consumables rather than a public developer platform — no OpenAPI, developer portal, SDKs, CLI, or MCP surface was found during enrichment.
 
-Backed by: partech — https://www.stillatechnologies.com/
+**Areas:** Company · Healthcare · Life Sciences · Diagnostics · Digital PCR · Genomics · Biotechnology · Laboratory Instruments
+
+## Stilla Technologies on APIs.io
+
+Everything profiled for Stilla Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/stilla-technologies/](https://apis.io/providers/stilla-technologies/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Stilla Technologies Domain Security](https://apis.io/security/stilla-technologies/stilla-technologies-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.stillatechnologies.com/)
+
+## API Evangelist rating
+
+**Kin Score 3.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/stilla-technologies/](https://apis.io/providers/stilla-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Stilla Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/stilla-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
